@@ -8,6 +8,9 @@ If you guess the number, you can click on "Again" to start another round.
 
 You can start playing by clicking the following link: https://ivangonzalez05.github.io/Guess-the-Number/
 
+## The Objective
+The purpose of this project was to practice Javascript and interact a little bit with the DOM (That's why is not responsive).
+
 ## Acknowledgments
 Thanks to Jonas, who gave me the challenge and also the UI for the project.
 This project is part of his Udemy Course on Javascript
