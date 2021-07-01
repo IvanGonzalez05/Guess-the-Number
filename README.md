@@ -13,4 +13,4 @@ The purpose of this project was to practice Javascript and interact a little bit
 
 ## Acknowledgments
 Thanks to Jonas, who gave me the challenge and also the UI for the project.
-This project is part of his Udemy Course on Javascript
+This project is part of his Udemy Course about Javascript: https://www.udemy.com/course/the-complete-javascript-course/
