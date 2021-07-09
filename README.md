@@ -6,7 +6,7 @@ is to guess that number (as its name suggests).
 
 If you guess the number, you can click on "Again" to start another round.
 
-You can start playing by clicking the following link: https://ivangonzalez05.github.io/Junior-Guess-the-Number/
+You can start playing by clicking the following link: https://ivangonzalez05.github.io/Js-Junior-Guess-the-Number/
 
 ## The Objective
 The purpose of this project was to practice Javascript and interact a little bit with the DOM (That's why is not responsive).
